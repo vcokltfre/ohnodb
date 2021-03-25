@@ -173,3 +173,5 @@ class OhNoDB:
                     raise DBError("Invalid JSON data.") from None
             else:
                 f.write(data)
+
+        self.files[f"{table}/{file}"] = data
