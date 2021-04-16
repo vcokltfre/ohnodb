@@ -2,6 +2,8 @@
 
 ## Please never use this in production. I beg you, don't.
 
+``` pip install ohnodb ```
+
 Usage:
 
 ```py
