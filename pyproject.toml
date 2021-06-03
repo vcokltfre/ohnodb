@@ -4,6 +4,7 @@ version = "1.0.0"
 description = "A very, very bad database"
 authors = ["vcokltfre <vcokltfre@gmail.com>"]
 license = "MIT"
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.8"
